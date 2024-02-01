@@ -12,8 +12,4 @@
     <PackageReference Include="NModbus" Version="3.0.81" />
   </ItemGroup>
 
-  <ItemGroup>
-    <ProjectReference Include="..\..\ModBusTCP\INILib\INILib.csproj" />
-  </ItemGroup>
-
 </Project>
